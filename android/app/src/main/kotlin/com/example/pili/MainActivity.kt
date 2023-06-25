@@ -1,4 +1,4 @@
-package com.example.pili
+package com.example.flux
 
 import io.flutter.embedding.android.FlutterActivity
 

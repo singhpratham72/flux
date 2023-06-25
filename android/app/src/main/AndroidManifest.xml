@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.pili">
+    package="com.example.flux">
    <application
-        android:label="pili"
+        android:label="flux"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

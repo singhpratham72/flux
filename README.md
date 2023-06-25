@@ -1,2 +1,2 @@
-# pili
+# flux
 An interactive entertainment app.

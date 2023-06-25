@@ -1,6 +1,6 @@
 {
-    "name": "pili",
-    "short_name": "pili",
+    "name": "flux",
+    "short_name": "flux",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
